@@ -1,0 +1,4 @@
+@libgadu
+libmpdclient
+libotr
+kadu
