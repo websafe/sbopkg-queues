@@ -8,6 +8,7 @@
 @clamav-unofficial-sigs
 @clamsmtp
 @spamassassin
+@imapproxy
 @sipcalc
 @qemu
 @aqemu
